@@ -52,6 +52,9 @@ void cpy(){
             flow[i][j] = capa[i][j];
 }
 
+// K-connect -> find min cut
+// max flow = min cut
+
 int main(){
     ios::sync_with_stdio(false);
     cin.tie(0);
