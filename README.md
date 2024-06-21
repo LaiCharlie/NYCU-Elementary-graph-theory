@@ -16,5 +16,7 @@
 ### HW5
 > score : 100
 
-![image](https://github.com/LaiCharlie/NYCU-Elementary-graph-theory/AC_grade.png)
+
+
+![image](https://github.com/LaiCharlie/NYCU-Elementary-graph-theory/blob/main/AC_grade.png)
 
