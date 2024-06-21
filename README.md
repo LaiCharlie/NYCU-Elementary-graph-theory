@@ -17,8 +17,4 @@
 > score : 100
 
 
-
-<div align=center>
-  ![image](https://github.com/LaiCharlie/NYCU-Elementary-graph-theory/blob/main/AC_grade.png)
-</div>
-
+![image](https://github.com/LaiCharlie/NYCU-Elementary-graph-theory/blob/main/AC_grade.png)
