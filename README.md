@@ -18,5 +18,7 @@
 
 
 
-<div align=center>![image](https://github.com/LaiCharlie/NYCU-Elementary-graph-theory/blob/main/AC_grade.png)</div>
+<div align=center>
+  ![image](https://github.com/LaiCharlie/NYCU-Elementary-graph-theory/blob/main/AC_grade.png)
+</div>
 
